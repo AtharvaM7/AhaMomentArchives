@@ -1,11 +1,29 @@
-<!---Write a a paragraph on Geometric progression and mention its maths formula.--->
-##Geometric Progression
-A geometric progression is a sequence of numbers where each term after the first is found by multiplying the previous one by a fixed, non-zero number called the common ratio. For example, the sequence 2, 6, 18, 54, ... is a geometric progression with common ratio 3. Similarly 10, 5, 2.5, 1.25, ... is a geometric sequence with common ratio 1/2.
+# Basic Markdown File with Mathematical Formulas
 
-<!---Write the formula for sum of GP using latex.--->
-###Sum of GP
-The sum of the first n terms of a geometric series is given by:
-$$S_n = \frac{a(1-r^n)}{1-r}$$
-where a is the first term and r is the common ratio.
+## Introduction
 
+This is a basic example of a Markdown file. Markdown allows you to create formatted text using a plain text editor. Below are some examples of formatted text and mathematical formulas.
+
+### Text Formatting
+
+- **Bold Text**: **This is bold**
+- *Italic Text*: *This is italic*
+- `Code`: `This is code`
+
+### Mathematical Formulas
+
+You can create mathematical formulas using LaTeX syntax. Here are a few examples:
+
+1. The quadratic formula:
+   $$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+
+2. Euler's formula:
+   $$ e^{i\pi} + 1 = 0 $$
+
+3. The integral of a function:
+   $$ \int_a^b f(x)\,dx $$
+
+### Conclusion
+
+Markdown with LaTeX for mathematics provides a powerful combination for creating well-formatted documents with complex mathematical formulas.
 
