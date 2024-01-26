@@ -1,3 +1,9 @@
+---
+layout: page  # Or another layout if you have created custom ones.
+title: "The Title of Your Page"  # The title of your markdown page.
+permalink: /entropy/  # Optional: if you want to specify the URL directly.
+---
+
 # Basic Markdown File with Mathematical Formulas
 
 ## Introduction
